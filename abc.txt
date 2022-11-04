@@ -1,0 +1,6 @@
+Warning: Building for device with codesigning disabled. You will have to manually codesign before deploying to device.
+Building com.example.sample for device (ios-release)...
+Running Xcode build...                                          
+ └─Compiling, linking and signing...                      1,977ms
+Xcode build done.                                            6.6s
+Built /Users/mustafa/Desktop/sample/build/ios/iphoneos/Runner.app.
